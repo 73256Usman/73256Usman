@@ -70,6 +70,5 @@ Concentrations: Cybersecurity, Network & Information Systems, Database Managemen
 ## Contact
 
 📧 732.usman@gmail.com
-📞 (848) 247-9336
 🔗 [LinkedIn](https://linkedin.com/in/usmanzaffar)
 📄 Resume available on request
