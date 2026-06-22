@@ -1,74 +1,58 @@
-# Usman Zaffar — Cybersecurity Professional
+# Hi, I'm Usman Zaffar 
 
-📍 Edison, NJ | 🎓 NJIT Information Technology (Senior, GPA 3.8) | 🔐 CompTIA Security+
-
----
-
-## About Me
-
-Cybersecurity professional with nearly 2 years of security operations experience. 
-Pursuing a B.S. in Information Technology at NJIT with concentrations in 
-Cybersecurity, Network & Information Systems, and Database Management. 
-Focused on defensive security, threat detection, and cloud security.
+I'm a cybersecurity professional and senior at New Jersey Institute 
+of Technology pursuing a B.S. in Information Technology with a focus 
+on cybersecurity, network security, and cloud security. I have nearly 
+2 years of security operations experience and hold CompTIA Security+.
 
 ---
 
-## Certifications
+## 🔐 What I'm Currently Working On
 
-- CompTIA Security+
-- TryHackMe SOC Level 1
-
----
-
-## Technical Skills
-
-| Category | Skills |
-|---|---|
-| SIEM | Microsoft Sentinel, Splunk, Elastic Stack |
-| EDR | CrowdStrike, SentinelOne |
-| Threat Detection | Alert Triage, Log Analysis, IOC Investigation |
-| Incident Response | NIST 800-61, MITRE ATT&CK, Cyber Kill Chain |
-| Network Security | TCP/IP, DNS, HTTP, Wireshark, Nmap |
-| Cloud Security | AWS, Microsoft Azure, VMware |
-| Scripting | Python, PowerShell |
-| Ticketing | ServiceNow, Jira |
+- Building a Python-based vulnerability scanner as a hands-on security tool
+- Building a cloud security skill set through Microsoft Azure and AWS certifications
+- Completing TryHackMe SOC Level 1 blue team training
+- Actively seeking entry-level cybersecurity roles in New Jersey
 
 ---
 
-## Experience
+## 🛠️ Tools I Use
 
-**Cybersecurity Intern — Mastercard** *(Sep 2025 – Nov 2025)*
-Phishing threat analysis, incident response, compromised account investigation, 
-and containment recommendations.
+**SIEM & Monitoring**
+Microsoft Sentinel · Splunk · Elastic Stack
 
-**Security Operations Analyst — Metro One** *(Nov 2023 – Aug 2025)*
-AWS-based access log monitoring, security event triage, audit trail analysis, 
-incident reporting, and access control enforcement.
+**Endpoint & Threat Detection**
+CrowdStrike · SentinelOne · Wireshark · Nmap
 
----
+**Frameworks**
+MITRE ATT&CK · NIST 800-61 · Cyber Kill Chain
 
-## Projects
+**Cloud & Infrastructure**
+AWS · Microsoft Azure · VMware Workstation
 
-| Project | Description |
-|---|---|
-| 🔍 Phishing URL Analysis | End-to-end investigation of a typosquatted delivery domain. IOCs documented, MITRE ATT&CK mapped (T1566.002, T1583.001, T1056). |
-| 📊 SOC Log Analysis Portfolio | Raw SIEM log analysis across 10+ attack categories including brute force, lateral movement, ransomware, and C2 beaconing. All mapped to MITRE ATT&CK. |
-| 🖥️ AutoMarket — Full Stack App | 4-VM enterprise network on VMware with network isolation, JWT auth, bcrypt hashing, RBAC, centralized logging, and HTTP security headers. |
-| 🎯 TryHackMe SOC Level 1 | 40+ rooms covering SIEM, EDR, SOAR, phishing analysis, and threat intelligence frameworks. |
+**Scripting**
+Python · PowerShell
 
----
-
-## Education
-
-**New Jersey Institute of Technology** — B.S. Information Technology *(Senior, Expected May 2027)*
-Concentrations: Cybersecurity, Network & Information Systems, Database Management
-
-**Middlesex College** — A.S. Business Information Systems *(2023 – 2025)*
+**Ticketing**
+ServiceNow · Jira
 
 ---
 
-## Contact
+## 📂 Featured Projects
 
-📧 732.usman@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/usmanzaffar)
+🔍 **Phishing URL Analysis Report**
+End-to-end phishing investigation with IOC documentation and MITRE ATT&CK mapping
+
+📊 **SOC Log Analysis Portfolio**
+Raw SIEM log analysis across 10+ attack categories mapped to MITRE ATT&CK
+
+🖥️ **AutoMarket Network Security Lab**
+4-VM enterprise network on VMware with network isolation, JWT auth, bcrypt, RBAC, and centralized logging
+
+---
+
+## 📬 How to Reach Me
+
+📧 732.usman@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/usmanzaffar)  
 📄 Resume available on request
