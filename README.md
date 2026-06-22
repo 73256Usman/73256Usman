@@ -28,10 +28,10 @@ CrowdStrike · SentinelOne · Wireshark · Nmap
 MITRE ATT&CK · NIST 800-61 · Cyber Kill Chain
 
 **Cloud & Infrastructure**
-AWS · Microsoft Azure · VMware Workstation
+AWS · Microsoft Azure · VMware Workstation · Linux (Ubuntu) · Windows
 
 **Scripting**
-Python · PowerShell
+Python · PowerShell · Bash
 
 **Ticketing**
 ServiceNow · Jira
