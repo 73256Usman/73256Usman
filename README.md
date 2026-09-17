@@ -7,7 +7,7 @@ on cybersecurity, network security, and cloud security. I have nearly
 
 ---
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 **SIEM & Monitoring**
 Microsoft Sentinel · Splunk · Elastic Stack
