@@ -29,20 +29,20 @@ ServiceNow · Jira
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-🔍 **Phishing URL Analysis Report**
+**Phishing URL Analysis Report**
 End-to-end phishing investigation with IOC documentation and MITRE ATT&CK mapping
 
-📊 **SOC Log Analysis Portfolio**
+**SOC Log Analysis Portfolio**
 Raw SIEM log analysis across 10+ attack categories mapped to MITRE ATT&CK
 
-🖥️ **AutoMarket Network Security Lab**
+**AutoMarket Network Security Lab**
 4-VM enterprise network on VMware with network isolation, JWT auth, bcrypt, RBAC, and centralized logging
 
 ---
 
-## 📬 How to Reach Me
+## How to Reach Me
 
 📧 732.usman@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/usmanzaffar)  
