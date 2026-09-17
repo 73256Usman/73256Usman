@@ -7,15 +7,6 @@ on cybersecurity, network security, and cloud security. I have nearly
 
 ---
 
-## 🔐 What I'm Currently Working On
-
-- Building a Python-based vulnerability scanner as a hands-on security tool
-- Building a cloud security skill set through Microsoft Azure and AWS certifications
-- Completing TryHackMe SOC Level 1 blue team training
-- Actively seeking entry-level cybersecurity roles in New Jersey
-
----
-
 ## 🛠️ Tools I Use
 
 **SIEM & Monitoring**
